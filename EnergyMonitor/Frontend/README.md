@@ -3,5 +3,5 @@
 * ### 1 Установка PoverShell:
    *Скачайте PowerShell(Не Windows PowerShell) с Microsoft store или с официального репозитория https://github.com/microsoft/terminal
 * ### 2 Установка Node.js:
-    *
+    * Установите следуйте инструкциям в официальном репозитории: https://github.com/Schniz/fnm
  
